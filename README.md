@@ -1,4 +1,4 @@
-# investor
+# Investor
 
 A new Flutter project.
 
